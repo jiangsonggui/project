@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/integrateFor/integrateFor.iml" filepath="$PROJECT_DIR$/integrateFor/integrateFor.iml" />
       <module fileurl="file://$PROJECT_DIR$/integrateOne/integrateOne.iml" filepath="$PROJECT_DIR$/integrateOne/integrateOne.iml" />
+      <module fileurl="file://$PROJECT_DIR$/integrateThree/integrateThree.iml" filepath="$PROJECT_DIR$/integrateThree/integrateThree.iml" />
       <module fileurl="file://$PROJECT_DIR$/integrateproject/integrateproject.iml" filepath="$PROJECT_DIR$/integrateproject/integrateproject.iml" />
     </modules>
   </component>
